@@ -1,12 +1,13 @@
-
-
 {
     "apiUrl": "https://calacula.store/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.1",
+        "updateVersiyon": "1.4.7",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Medya player için bir kaç uzantı desteği sağlandı, Bazı bölümlerin stabil çalışması için iyileştirmeler yapıldı.....",
-        "updateLink": "https://github.com/ceceyli/pro/raw/main/GolgeTV-PLUS-1.4.1-vpn.apk"
+        "updateYenilik": "Canlı Maçlar 1 için optimizasyon yapıldı.",
+        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.6.apk",
+        "websiteLink": "https://emegesaygiapk.blogspot.com",
+        "telegramLink": "https://t.me/+V5eM0GZgGmlLsw-k"
+       
     },
      "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
 }
