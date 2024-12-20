@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://loginstore.xyz/appMainGetData.php",
+    "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.5.4",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
